@@ -1,7 +1,8 @@
 <!-- Header with animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Lina+Bhouri!;AI+Developer+%7C+Data+Scientist+%7C+Tech+Tinkerer;Crafting+smart+systems+for+real+world+impact.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Lina+Bhouri!;AI+Developer+%7C+Data+Scientist+%7C+Big+Data+Enthusiast;Designing+intelligent+solutions+for+real-world+impact.">
 </p>
+
 
 ---
 
@@ -9,11 +10,12 @@
 
 Hi, I'm **Lina** — a passionate AI Developer and Data Scientist working at the intersection of data, design, and decision-making. From predictive dashboards to intelligent chatbots, I bring together technical depth and user-first thinking to build meaningful tech solutions.
 
-💡 Architecting intelligent workflows with explainability in mind  
-🤖 Developing real-time ML pipelines + AI-powered assistants  
-🎯 Focused on warehouse optimization, neurosymbolic AI & forecasting  
-🧠 Exploring human-AI interaction for operational excellence  
-🎨 Love blending design + function with thoughtful UI/UX systems  
+🧠 Design and train machine learning models for pattern recognition and prediction  
+⚙️ Build pipelines that process and analyze large datasets efficiently  
+🗣️ Work with natural language processing and conversational systems  
+🔬 Experiment with AI frameworks like PyTorch and TensorFlow  
+📊 Integrate data insights into dashboards and applications  
+🤖 Explore human-AI interaction and intelligent assistant systems  
 
 ---
 
@@ -59,9 +61,7 @@ Hi, I'm **Lina** — a passionate AI Developer and Data Scientist working at the
 
 ## 📫 Let’s Connect
 
-- 💼 [Portfolio](https://your-portfolio-link.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourname/)  
-- 📸 [Instagram](https://www.instagram.com/yourusername)  
 - ✉️ Email: Linabhouri3@gmail.com
 
 ---
