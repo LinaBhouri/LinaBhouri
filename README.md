@@ -1,13 +1,13 @@
 <!-- Header with animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Lina+Bhs!;AI+Engineer+%7C+UX+Thinker+%7C+Tech+Tinkerer;Crafting+smart+systems+for+real+world+impact.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Lina+Bhouri!;AI+Developer+%7C+Data+Scientist+%7C+Tech+Tinkerer;Crafting+smart+systems+for+real+world+impact.">
 </p>
 
 ---
 
 ## 🎨 About Me
 
-Hi, I'm **Lina** — a passionate AI Engineer and UX enthusiast working at the intersection of data, design, and decision-making. From predictive dashboards to intelligent chatbots, I bring together technical depth and user-first thinking to build meaningful tech solutions.
+Hi, I'm **Lina** — a passionate AI Developer and Data Scientist working at the intersection of data, design, and decision-making. From predictive dashboards to intelligent chatbots, I bring together technical depth and user-first thinking to build meaningful tech solutions.
 
 💡 Architecting intelligent workflows with explainability in mind  
 🤖 Developing real-time ML pipelines + AI-powered assistants  
@@ -56,7 +56,7 @@ Hi, I'm **Lina** — a passionate AI Engineer and UX enthusiast working at the i
 - 💼 [Portfolio](https://your-portfolio-link.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourname/)  
 - 📸 [Instagram](https://www.instagram.com/yourusername)  
-- ✉️ Email: you@example.com  
+- ✉️ Email: Linabhouri3@gmail.com
 
 ---
 
