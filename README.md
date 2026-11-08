@@ -1,102 +1,160 @@
-<!-- Header Banner / Hero Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=AI%20&%20Automation%20Architect&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<img src="./assets/banner.svg" alt="lina — AI · Automation · Build" width="100%"/>
+
+<br/>
+
+**AI & Automation Developer** · she/her
+
+I design intelligent workflows, RPA bots, and AI agents that remove the boring parts of work.
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20collaborations-7c3aed?style=flat-square&labelColor=0d1117" alt="open to collaborations"/>
+<img src="https://img.shields.io/badge/focus-RPA%20%C2%B7%20AI%20agents%20%C2%B7%20LLMs-06b6d4?style=flat-square&labelColor=0d1117" alt="focus"/>
+<img src="https://img.shields.io/badge/always-learning-ec4899?style=flat-square&labelColor=0d1117" alt="always learning"/>
+
 </div>
 
-<div align="center">
-  <code>🧠 Autonomous Agents</code> &nbsp;&bull;&nbsp; 
-  <code>⚙️ Workflow Automation</code> &nbsp;&bull;&nbsp; 
-  <code>⚡ LLM Orchestration</code>
-</div>
-
-<br>
+<br/>
 
 ---
 
-<!-- About / Philosophy Row -->
-<table>
-  <tr>
-    <td width="65%" align="left" valign="top">
-      <h3>⚡ About Me</h3>
-      <p>I build intelligent autonomous agents, scalable LLM pipelines, and enterprise-grade automation workflows that bridge the gap between cutting-edge AI research and production-ready software.</p>
-      <ul>
-        <li>🔭 Currently architecting multi-agent orchestration systems.</li>
-        <li>💬 Ask me about RAG pipelines, prompt engineering, and API integrations.</li>
-        <li>⚡ Fun fact: If a task takes more than 2 minutes, I automate it.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%" />
-    </td>
-  </tr>
-</table>
+### `about`
+
+> *Automate the repetitive. Amplify the human.*
+
+- 🤖 I build **RPA solutions** with UiPath (REFramework) and connect them with modern AI
+- 🧠 I create **LLM-powered agents** that read, reason, and act on real business processes
+- ⚙️ I design **end-to-end automation pipelines**: from document intake to API calls to reporting
+- 🌱 Currently exploring: agentic workflows, MCP servers, and document understanding
+- 💬 Ask me about: automation architecture, bot reliability, prompt design, process mapping
+
+<br/>
 
 ---
 
-<!-- Tech Stack Section -->
+### `stack`
+
 <div align="center">
-  <h3>🛠️ AI & Automation Stack</h3>
-  <br>
 
-  <!-- Languages & Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+**Automation & RPA**
 
-  <br><br>
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/>
+<img src="https://img.shields.io/badge/REFramework-0d1117?style=for-the-badge&logoColor=white&color=FA4616" alt="REFramework"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
 
-  <!-- AI & LLM Frameworks -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+**AI & LLMs**
 
-  <br><br>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=white&color=7c3aed" alt="MCP"/>
 
-  <!-- Automation & Workflow Tools -->
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-0B0B0B?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+**Machine Learning**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+**Languages & Backend**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/.NET%20%2F%20VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+**Data & Vector Stores**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+
+**Web Automation & Testing**
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+
+**DevOps & Tooling**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+
 </div>
+
+<br/>
 
 ---
 
-<!-- GitHub Analytics / Stats -->
-<div align="center">
-  <h3>📊 GitHub Metrics</h3>
-  <p>
-    <img src="https://github-readme-streak-stats.vercel.app?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b26" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" width="48%" />
-  </p>
-</div>
+### `what i build`
+
+| | |
+|---|---|
+| **🤖 RPA bots** | Queue-driven, resilient bots built on UiPath REFramework, with solid exception handling and logging |
+| **🧠 AI agents** | LLM agents with tool use, retrieval (RAG), and human-in-the-loop checkpoints |
+| **📄 Document automation** | Extraction, classification, and validation of invoices, reports, and forms |
+| **🔗 Integrations** | API-first workflows connecting CRMs, ERPs, email, and internal systems |
+| **📊 Reporting pipelines** | Scheduled data collection, merging, and delivery of reports |
+
+<br/>
 
 ---
 
-<!-- Social Links / Contact -->
+### `featured projects`
+
+<!-- Replace these with your own repos, or use pin cards: -->
+<!-- https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=github_dark_dimmed -->
+
 <div align="center">
-  <h3>🌐 Connect With Me</h3>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=github_dark_dimmed&hide_border=true" width="48%"/></a>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark_dimmed&hide_border=true" width="48%"/></a>
+
 </div>
 
-<br>
+<br/>
+
+---
+
+### `github stats`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7aa2f7&style=flat-square" alt="Profile Views" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="165" alt="top languages"/>
+
+</div>
+
+<br/>
+
+---
+
+### `connect`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"/></a>
+<a href="https://t.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117" alt="Telegram"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email"/></a>
+
+<br/><br/>
+
+<sub>built with curiosity, coffee, and a lot of automated workflows ☕</sub>
+
 </div>
